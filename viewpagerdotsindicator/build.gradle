@@ -39,7 +39,7 @@ dokka {
 
 
 buildscript {
-  ext.dokka_version = '0.9.16-eap-3'
+  ext.dokka_version = '0.9.16'
   repositories {
     jcenter()
     mavenCentral()
